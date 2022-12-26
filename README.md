@@ -7,4 +7,5 @@ This Project is developed in codeigniter 3 framework
 2. upload the csv file
 3. analyze before buy or sell
 4. buy or sell
-5. didn't mention any particular user for this also shares calculated 200*closing stock prices 
+5. didn't mention any particular user for this also shares calculated 200*closing stock prices
+6. use http://localhost/assessment/testing for test
